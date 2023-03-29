@@ -1,0 +1,15 @@
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.csproj.AssemblyReference.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.AssemblyInfoInputs.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.AssemblyInfo.cs
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\bin\Debug\net6.0\var.exe
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\bin\Debug\net6.0\var.deps.json
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\bin\Debug\net6.0\var.runtimeconfig.json
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\bin\Debug\net6.0\var.dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\bin\Debug\net6.0\var.pdb
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\refint\var.dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.pdb
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\var.genruntimeconfig.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\var\var\obj\Debug\net6.0\ref\var.dll

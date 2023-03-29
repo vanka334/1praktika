@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kukota", "Kukota\Kukota.csproj", "{F519D12F-C407-4E34-AEE0-7123D5D3EB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F519D12F-C407-4E34-AEE0-7123D5D3EB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F519D12F-C407-4E34-AEE0-7123D5D3EB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F519D12F-C407-4E34-AEE0-7123D5D3EB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F519D12F-C407-4E34-AEE0-7123D5D3EB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD9BB57A-B983-44A3-979D-B55CD1B14DC2}
+	EndGlobalSection
+EndGlobal

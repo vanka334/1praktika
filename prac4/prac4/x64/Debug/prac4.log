@@ -1,0 +1,4 @@
+﻿  prac4.cpp
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\prac4\prac4\prac4.cpp(29,25): error C2084: функция "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> random(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &,int &,int &)" уже имеет текст реализации
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\prac4\prac4\prac4.cpp(10,25): message : см. предыдущее определение "random"
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\prac4\prac4\prac4.cpp(30,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных

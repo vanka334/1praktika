@@ -1,0 +1,15 @@
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\bin\Debug\net6.0\Mnogopotok.exe
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\bin\Debug\net6.0\Mnogopotok.deps.json
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\bin\Debug\net6.0\Mnogopotok.runtimeconfig.json
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\bin\Debug\net6.0\Mnogopotok.dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\bin\Debug\net6.0\Mnogopotok.pdb
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.csproj.AssemblyReference.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.AssemblyInfoInputs.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.AssemblyInfo.cs
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\refint\Mnogopotok.dll
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.pdb
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\Mnogopotok.genruntimeconfig.cache
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\Mnogopotok\Mnogopotok\obj\Debug\net6.0\ref\Mnogopotok.dll
