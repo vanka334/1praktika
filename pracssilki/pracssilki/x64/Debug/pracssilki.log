@@ -1,0 +1,4 @@
+﻿  pracssilki.cpp
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\pracssilki\pracssilki\pracssilki.cpp(9): warning C4172: возвращение адреса локальной или временной переменной : num
+C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\pracssilki\pracssilki\pracssilki.cpp(12): warning C4172: возвращение адреса локальной или временной переменной : prod
+  pracssilki.vcxproj -> C:\Users\Vanya\OneDrive\Рабочий стол\проекти)\pracssilki\x64\Debug\pracssilki.exe
